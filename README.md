@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/astrovector18/profile-card)
-- Live Site URL: [Add live site URL here](https://profile-card-1.onrender.com) 
+- Solution URL: [GUTHUB](https://github.com/astrovector18/profile-card)
+- Live Site URL: [RENDER](https://profile-card-1.onrender.com) 
 
 ## My process
 
