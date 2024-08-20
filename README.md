@@ -63,6 +63,6 @@ sharpening my css skills.
 
 ## Author
 
-- Website - [AstroVector](#)
+- Website - [AstroVector](https://github.com/astrovector18)
 - Frontend Mentor - [@danieloluwole](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@astrovector19](https://www.twitter.com/astrovector19)
